@@ -1,0 +1,27 @@
+label {
+
+    display: block;
+
+}
+
+
+form {
+
+    border: 1px;
+    color: black;
+    display: inline inline-block;
+    padding: 10px;
+
+}
+
+
+.dados {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    column-gap: 20px;
+    align-items: center;
+    height: 100vh;
+}
